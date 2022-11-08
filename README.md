@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zuari1993
-- 👀 I’m interested in ML & OR
+- 👀 I’m interested & experienced in building ML & OR models for large scale supply chain systems
 - 🌱 I’m currently learning RL
-- 💞️ I’m looking to collaborate on any interesting ML projects
 - 📫 How to reach me lnatarajan@wisc.edu
 
 <!---
