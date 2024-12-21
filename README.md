@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zuari1993
 - 👀 I’m interested & experienced in building ML & OR models for large scale supply chain systems
 - 🌱 I’m currently learning RL
-- 📫 How to reach me lnatarajan@wisc.edu
+- 📫 How to reach me lekshmanan@outlook.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuari1993)](https://github.com/anuraghazra/github-readme-stats)
 
